@@ -1,0 +1,11 @@
+.theme-light {
+  --bg: #ffffff;
+  --bg-2: #f6f8fb;
+  --text: #1a1a1a;
+}
+
+.theme-dark {
+  --bg: #0f1218;
+  --bg-2: #1a1f29;
+  --text: #e5e7eb;
+}

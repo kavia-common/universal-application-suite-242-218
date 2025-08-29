@@ -1,0 +1,18 @@
+:root {
+  /* Color palette */
+  --color-primary: #1976d2;
+  --color-secondary: #424242;
+  --color-accent: #ff4081;
+
+  --bg: #ffffff;
+  --bg-2: #f6f8fb;
+  --text: #1a1a1a;
+  --border: #e5e7eb;
+}
+
+[data-theme="dark"] {
+  --bg: #0f1218;
+  --bg-2: #1a1f29;
+  --text: #e5e7eb;
+  --border: #2a2f3a;
+}

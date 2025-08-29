@@ -1,0 +1,3 @@
+export { default as Landing } from "./Landing.jsx";
+export { default as Dashboard } from "./Dashboard.jsx";
+export { default as Profile } from "./Profile.jsx";
